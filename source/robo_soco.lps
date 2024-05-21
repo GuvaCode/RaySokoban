@@ -8,8 +8,8 @@
         <Filename Value="robo_soco.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="238"/>
-        <CursorPos X="60" Y="252"/>
+        <TopLine Value="294"/>
+        <CursorPos X="82" Y="318"/>
         <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
@@ -203,18 +203,6 @@
     <JumpHistory HistoryIndex="29">
       <Position>
         <Filename Value="robo_soco.lpr"/>
-        <Caret Line="117" Column="50" TopLine="108"/>
-      </Position>
-      <Position>
-        <Filename Value="robo_soco.lpr"/>
-        <Caret Line="92" Column="70" TopLine="82"/>
-      </Position>
-      <Position>
-        <Filename Value="robo_soco.lpr"/>
-        <Caret Line="118" Column="11" TopLine="99"/>
-      </Position>
-      <Position>
-        <Filename Value="robo_soco.lpr"/>
         <Caret Line="83" Column="19" TopLine="79"/>
       </Position>
       <Position>
@@ -319,6 +307,18 @@
       <Position>
         <Filename Value="robo_soco.lpr"/>
         <Caret Line="226" Column="19" TopLine="220"/>
+      </Position>
+      <Position>
+        <Filename Value="robo_soco.lpr"/>
+        <Caret Line="315" Column="82" TopLine="304"/>
+      </Position>
+      <Position>
+        <Filename Value="robo_soco.lpr"/>
+        <Caret Line="318" TopLine="303"/>
+      </Position>
+      <Position>
+        <Filename Value="robo_soco.lpr"/>
+        <Caret Line="317" Column="13" TopLine="303"/>
       </Position>
     </JumpHistory>
     <RunParams>

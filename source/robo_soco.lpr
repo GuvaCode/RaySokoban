@@ -314,7 +314,12 @@ begin
         end;
    '$': DrawRectangle( (yy * sc)+ OffSet ,  (xx * sc)+ OffSet, sc, sc, BLUE);
    '*': DrawRectangle( (yy * sc)+ OffSet ,  (xx * sc)+ OffSet, sc, sc, GREEN);
+   'T', 't','m','c' : begin
+        DrawRectangle( (yy * sc)+ OffSet,  (xx * sc)+ OffSet, sc, sc, LIGHTGRAY);
+        DrawRectangleLines( (yy * sc)+ OffSet,  (xx * sc)+ OffSet, sc, sc, GRAY);
+       end;
    end;
+
  end;
  end;
 end;
