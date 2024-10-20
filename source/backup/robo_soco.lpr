@@ -143,17 +143,17 @@ var ambientLoc, i: Integer;
 
 begin
   PlayerRobot := LoadModel(PChar(GetApplicationDirectory + 'data/models/robot.glb'));
-  Grass :=  LoadModel(PChar(GetApplicationDirectory +'data/models/Block_Dirt.gltf'));
-  DoIn :=  LoadModel(PChar(GetApplicationDirectory + 'data/models/Block_Diamond.gltf'));
-  Brick :=  LoadModel(PChar(GetApplicationDirectory + 'data/models/Cube_Crate.gltf'));
-  BoxOut :=  LoadModel(PChar(GetApplicationDirectory + 'data/models/Cube_Question.gltf'));
-  BoxIn :=  LoadModel(PChar(GetApplicationDirectory + 'data/models/Cube_Exclamation.gltf'));
+  Grass :=  LoadModel(GetApplicationDirectory +'data/models/Block_Dirt.gltf'));
+  DoIn :=  LoadModel(GetApplicationDirectory + 'data/models/Block_Diamond.gltf'));
+  Brick :=  LoadModel(GetApplicationDirectory + 'data/models/Cube_Crate.gltf'));
+  BoxOut :=  LoadModel(GetApplicationDirectory + 'data/models/Cube_Question.gltf'));
+  BoxIn :=  LoadModel(GetApplicationDirectory + 'data/models/Cube_Exclamation.gltf'));
 
-  Tree1 := LoadModel(PChar(GetApplicationDirectory + 'data/models/DeadTree_1.gltf'));
-  Tree2 := LoadModel(PChar(GetApplicationDirectory + 'data/models/DeadTree_2.gltf'));
+  Tree1 := LoadModel(GetApplicationDirectory + 'data/models/DeadTree_1.gltf'));
+  Tree2 := LoadModel(GetApplicationDirectory + 'data/models/DeadTree_2.gltf'));
 
-  Mushroom := LoadModel(PChar(GetApplicationDirectory + 'data/models/Mushroom.gltf'));
-  Crystal := LoadModel(PChar(GetApplicationDirectory +'data/models/Crystal_Small.gltf'));
+  Mushroom := LoadModel(GetApplicationDirectory + 'data/models/Mushroom.gltf'));
+  Crystal := LoadModel(GetApplicationDirectory +'data/models/Crystal_Small.gltf'));
 
   // Load shader and set up some uniforms
   shader := LoadShader('data/shaders/lighting.vs','data/shaders/fog.fs');

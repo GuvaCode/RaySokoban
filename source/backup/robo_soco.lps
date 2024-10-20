@@ -204,8 +204,8 @@
       <Unit>
         <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
         <EditorIndex Value="2"/>
-        <TopLine Value="93"/>
-        <CursorPos Y="117"/>
+        <TopLine Value="91"/>
+        <CursorPos X="64" Y="117"/>
         <UsageCount Value="13"/>
         <Loaded Value="True"/>
       </Unit>

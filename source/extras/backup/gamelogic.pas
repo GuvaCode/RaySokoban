@@ -212,7 +212,7 @@ if not FileExists(GetApplicationDirectory+('data/levels/'+IntToStr(CurrLevel)+'.
  Result:=false;
  Exit;
 end;
-AssignFile(sol,GetApplicationDirectory+('data/levels/'+ IntToStr(CurrLevel)+'.sol'));
+AssignFile(sol,GetApplicationDirectory+GetAppDir('data/levels/'+ IntToStr(CurrLevel)+'.sol'));
 //AssignFile(sol,ProgramDirectory+DirectorySeparator+'data'+DirectorySeparator+IntToStr(CurrLevel)+'.sol');
 Reset(sol);
 Read(sol,levelsolution);
