@@ -2,13 +2,13 @@
 <CONFIG>
   <ProjectSession>
     <Version Value="12"/>
-    <BuildModes Active="Default"/>
+    <BuildModes Active="Debug"/>
     <Units>
       <Unit>
         <Filename Value="robo_soco.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="350"/>
+        <TopLine Value="146"/>
         <CursorPos X="10" Y="146"/>
         <UsageCount Value="28"/>
         <Loaded Value="True"/>
@@ -17,7 +17,7 @@
         <Filename Value="extras/gamelogic.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="GameLogic"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="1"/>
         <TopLine Value="203"/>
         <CursorPos X="40" Y="215"/>
         <UsageCount Value="28"/>
@@ -85,11 +85,10 @@
       </Unit>
       <Unit>
         <Filename Value="../../Ray4Laz/source/raylib.pas"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="1209"/>
         <CursorPos X="33" Y="1215"/>
         <UsageCount Value="13"/>
-        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="../../TrueSpace/source/engine/spaceengine.pas"/>
@@ -203,90 +202,13 @@
       </Unit>
       <Unit>
         <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <EditorIndex Value="2"/>
-        <TopLine Value="91"/>
-        <CursorPos X="64" Y="117"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="93"/>
+        <CursorPos Y="117"/>
         <UsageCount Value="13"/>
-        <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="268" Column="22" TopLine="253"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="277" Column="19" TopLine="255"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="293" TopLine="177"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="79" Column="23" TopLine="63"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="302" Column="7" TopLine="291"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="307" Column="24" TopLine="288"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="304" Column="31" TopLine="290"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="313" Column="29" TopLine="292"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="316" TopLine="291"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="80" Column="35" TopLine="64"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="322" Column="99" TopLine="297"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="82" Column="53" TopLine="64"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="337" Column="46" TopLine="311"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="85" Column="45" TopLine="67"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="345" Column="7" TopLine="331"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="348" Column="64" TopLine="333"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="360" Column="12" TopLine="335"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/extras/raylights.pas"/>
-        <Caret Line="117" Column="64" TopLine="92"/>
-      </Position>
-      <Position>
-        <Filename Value="../../Ray4Laz/source/raylib.pas"/>
-        <Caret Line="1145" Column="20" TopLine="1128"/>
-      </Position>
+    <JumpHistory HistoryIndex="10">
       <Position>
         <Filename Value="robo_soco.lpr"/>
         <Caret Line="9" Column="79" TopLine="9"/>
